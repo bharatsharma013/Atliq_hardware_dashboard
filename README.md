@@ -16,7 +16,7 @@ This project is a dynamic and cross-functional Power BI dashboard . It provides 
 - Budget vs actual variance reports
 - Financial ratios and KPI tracking
 - Multi-period comparison with YOY and QOQ analysis
-- ![Finance_view]()
+
 
 
 
