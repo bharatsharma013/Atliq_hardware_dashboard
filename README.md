@@ -1,5 +1,5 @@
-![finance_view](https://github.com/user-attachments/assets/ad10c2c3-c1e6-4fa5-b567-b40fa2dc3f7c)
-# 📊 Power BI Project: Atliq_hardware  Dashboard –
+
+# 📊 Power BI Project: Atliq_hardware Dashboard
 
 This project is a dynamic and cross-functional Power BI dashboard . It provides interactive data visualizations and performance insights across six major business domains:
 
